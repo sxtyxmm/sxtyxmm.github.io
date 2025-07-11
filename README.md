@@ -140,9 +140,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Satyam Shishodiya**
-- Email: satyam.shishodiya@email.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: satyam.shishodiya@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/satyam-shishodiya/]
+- GitHub: [https://github.com/sxtyxmm]
 
 ---
 
