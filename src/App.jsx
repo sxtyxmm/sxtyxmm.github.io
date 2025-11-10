@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import Hero from './components/Hero'
 import ScrollSection from './components/ScrollSection'
 import RewardsSection from './components/RewardsSection'
@@ -7,7 +7,6 @@ import TestimonialsSection from './components/TestimonialsSection'
 import Footer from './components/Footer'
 
 function App() {
-  const { scrollYProgress } = useScroll()
   const [isLoaded, setIsLoaded] = useState(false)
 
   useEffect(() => {
